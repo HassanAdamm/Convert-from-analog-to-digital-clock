@@ -1,6 +1,6 @@
 # Convert-from-analog-to-digital-clock
 
-The main objective of this code is to read image of an analog clock and by using image processing (opencv ) we will be able to convert it to digital clock and show the reading
+Our main goal for this project was to develop a model for analog clock identification, and to implement it with a program that would be able to receive an image of a clock, and return the time displayed after its analysis.
  
 Team members:
 
