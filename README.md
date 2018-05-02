@@ -4,6 +4,9 @@ The main objective of this code is to read image of an analog clock and by using
  
 Team members:
 1-Abdelrahman Osama El-Naggar
+
 2-Hassan Mohamed Adam
+
 3-Ziad Mahmoud El-Molla
+
 4-Hussein El-shobokshy
